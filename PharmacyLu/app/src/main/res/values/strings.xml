@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pharmacy</string>
+    <string name="enter_your_name_text_iew">Enter your name</string>
+    <string name="enter_name_button_text">enter name</string>
+    <string name="calling_activity_message">calling activity</string>
+    <string name="get_the_name_text_view">get the</string>
+    <string name="go_the_name_text_view">Go the name</string>
+    <string name="gt_the_name_text_view">Go Get the name</string>
+    <string name="users_name_sent_back_text_view">The users name was</string>
+    <string name="click_me_to_begin_button_view">Click_Me to Begin</string>
+    <string name="enter_text_text_view">Enter Text</string>
+    <string name="the_patient_name_was_text_view">The patient name was</string>
+    <string name="go_to_home_button_view">Go to Home</string>
+    <string name="go_home">Go Home</string>
+    <string name="go_home_butto_text">go_home</string>
+</resources>
